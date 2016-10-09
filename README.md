@@ -1,7 +1,7 @@
 # ActivityLivecycle
 ## Screnschoot
-![ActivityLivecycle](https://s11.postimg.org/6rrlrd4ir/android.png)
-![ActivityLivecycle](https://s17.postimg.org/pvl0osfvz/livecycle.jpg)
+![ActivityLivecycle](https://cloud.githubusercontent.com/assets/22099413/19220943/63500ea0-8e63-11e6-8c1c-9ebc3e749242.PNG)
+![ActivityLivecycle](https://cloud.githubusercontent.com/assets/22099413/19220944/6353ae16-8e63-11e6-87cf-7f356a04748d.jpg)
 
 ## Identitas
 Nama : Ahmad Dimas Abid Muttaqi <br>
